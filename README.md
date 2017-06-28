@@ -1,2 +1,2 @@
-# Machine-Learning-Microbiome
-Machine learning analysis on microbiome data 
+# Microbiome analysis 
+Diversity and machine learning analysis on microbiome data 
